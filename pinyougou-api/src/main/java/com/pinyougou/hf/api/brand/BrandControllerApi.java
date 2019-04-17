@@ -28,7 +28,7 @@ public interface BrandControllerApi {
      * 根据条件分页查询
      * @param page 当前页
      * @param size 每页显示记录数
-     * @param brandRequest 查询条件
+     * @param brandRequest 查询条件          111
      * @return
      */
     @ApiOperation("根据条件查询品牌列表带分页")
